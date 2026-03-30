@@ -1,0 +1,10 @@
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\obj\Debug\BelajarMEmbuatTimer.vbproj.AssemblyReference.cache
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\obj\Debug\BelajarMEmbuatTimer.Form1.resources
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\obj\Debug\BelajarMEmbuatTimer.Resources.resources
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\obj\Debug\BelajarMEmbuatTimer.vbproj.GenerateResource.cache
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\obj\Debug\BelajarMEmbuatTimer.vbproj.CoreCompileInputs.cache
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\bin\Debug\BelajarMEmbuatTimer.exe.config
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\bin\Debug\BelajarMEmbuatTimer.exe
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\bin\Debug\BelajarMEmbuatTimer.pdb
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\obj\Debug\BelajarMEmbuatTimer.exe
+D:\PERTEMUAN PEMVIS\2\BelajarMEmbuatTimer\BelajarMEmbuatTimer\obj\Debug\BelajarMEmbuatTimer.pdb

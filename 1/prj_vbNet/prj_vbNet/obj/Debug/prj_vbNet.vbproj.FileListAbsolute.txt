@@ -1,0 +1,11 @@
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\obj\Debug\prj_vbNet.vbproj.AssemblyReference.cache
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\obj\Debug\prj_vbNet.Frmcoba.resources
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\obj\Debug\prj_vbNet.vbproj.GenerateResource.cache
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\obj\Debug\prj_vbNet.vbproj.CoreCompileInputs.cache
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\bin\Debug\prj_vbNet.exe.config
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\bin\Debug\prj_vbNet.exe
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\bin\Debug\prj_vbNet.pdb
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\bin\Debug\prj_vbNet.xml
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\obj\Debug\prj_vbNet.exe
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\obj\Debug\prj_vbNet.xml
+D:\PERTEMUAN PEMVIS\prj_vbNet\prj_vbNet\obj\Debug\prj_vbNet.pdb
