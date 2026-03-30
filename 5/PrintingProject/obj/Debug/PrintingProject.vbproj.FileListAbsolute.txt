@@ -1,0 +1,9 @@
+D:\PERTEMUAN PEMVIS\5\PrintingProject\bin\Debug\PrintingProject.exe
+D:\PERTEMUAN PEMVIS\5\PrintingProject\bin\Debug\PrintingProject.pdb
+D:\PERTEMUAN PEMVIS\5\PrintingProject\obj\Debug\PrintingProject.vbproj.AssemblyReference.cache
+D:\PERTEMUAN PEMVIS\5\PrintingProject\obj\Debug\PrintingProject.Form_input.resources
+D:\PERTEMUAN PEMVIS\5\PrintingProject\obj\Debug\PrintingProject.Resources.resources
+D:\PERTEMUAN PEMVIS\5\PrintingProject\obj\Debug\PrintingProject.vbproj.GenerateResource.cache
+D:\PERTEMUAN PEMVIS\5\PrintingProject\obj\Debug\PrintingProject.vbproj.CoreCompileInputs.cache
+D:\PERTEMUAN PEMVIS\5\PrintingProject\obj\Debug\PrintingProject.exe
+D:\PERTEMUAN PEMVIS\5\PrintingProject\obj\Debug\PrintingProject.pdb
